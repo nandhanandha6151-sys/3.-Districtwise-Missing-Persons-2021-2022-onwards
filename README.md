@@ -1,4 +1,4 @@
-# 3.-Districtwise-Missing-Persons-2021-2022-onwards
+# Districtwise-Missing-Persons-2021-2022-onwards
 
 # [Project Title]
 *-Districtwise-Missing-Persons-2021-2022-onwards.*
@@ -39,7 +39,20 @@ What were the main questions you explored?
 
 > **Tip:** Insert a screenshot of one key visualization here to catch the reader's eye.
 
-Dashbord screenshots.pdf
+---
+
+## 📷 Dashboard Preview
+
+> *Screenshots of your Power BI Dashboard.*
+
+
+
+```
+images/Dashbord screenshots.pdf
+```
+
+---
+
 
 ## 💡 Key Insights
 List your top 3–5 findings in bullet points.

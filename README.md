@@ -57,7 +57,7 @@ images/Dashbord screenshots.pdf
 ## 💡 Key Insights
 List your top 3–5 findings in bullet points.
 - **Insight 1:** state wise analysis was high missing cases in Maharashtra state Mumbai district
-- **Insight 2:**To increase the missing count compare to 2021 and age wise childrens, 12 to 16 years, 18 and above years all age category was Feamle is high missing cases find.
+- **Insight 2:** To increase the missing count compare to 2021 and age wise childrens, 12 to 16 years, 18 and above years all age category was Feamle is high missing cases find.
 
 ## 🚀 Recommendations
 Translate your insights into actionable business advice.

@@ -39,6 +39,8 @@ What were the main questions you explored?
 
 > **Tip:** Insert a screenshot of one key visualization here to catch the reader's eye.
 
+Dashbord screenshots.pdf
+
 ## 💡 Key Insights
 List your top 3–5 findings in bullet points.
 - **Insight 1:** state wise analysis was high missing cases in Maharashtra state Mumbai district
